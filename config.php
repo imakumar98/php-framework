@@ -7,11 +7,11 @@
     DEFINE('DB_HOST','localhost');
 
     //Replace database username
-    DEFINE('DB_USER','henrqfaw_ashwani');
+    DEFINE('DB_USER','root');
 
     //Replace database password
-    DEFINE('DB_PASS','ashwanikum12');
+    DEFINE('DB_PASS','');
 
     //Replace with your database name
-    DEFINE('DB_NAME','henrqfaw_framework');
+    DEFINE('DB_NAME','framework');
 ?>

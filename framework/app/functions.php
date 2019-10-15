@@ -8,8 +8,7 @@
     //Function to return column type
     function get_column_type($defined_type){
 
-
-        // echo "Value is  : ".$defined_type;
+        
         
 
         if($defined_type=="INTEGER"){

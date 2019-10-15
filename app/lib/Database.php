@@ -4,7 +4,7 @@
 
 
     //Import database configuration file
-    require_once('./../../config.php');
+    require_once('/opt/lampp/htdocs/framework/config.php');
 
 
     
@@ -13,6 +13,7 @@
         //Static function to get connection string
         public static function get_connection(){
             $connection = mysqli_connect(DB_HOST, DB_USER, DB_PASS, DB_NAME);
+            
             if(!$connection){
                 die("Database connection failed!!".mysqli_error($connection));
             }else{
