@@ -1,0 +1,29 @@
+{
+    "models":[
+        {
+            "student":{
+                "name":{
+                    "TYPE":"STRING",
+                    "DEFAULT":"NULL"
+		        },
+                "email":{
+                    "TYPE":"STRING",
+                    "DEFAULT":"NULL"
+                }
+            }
+        },
+        {
+            "teacher":{
+                "name":{
+                    "TYPE":"STRING",
+                    "DEFAULT":"NULL"
+                },
+                "email":{
+                    "TYPE":"STRING",
+                    "DEFAULT":"NULL"
+                }
+            }
+        }
+    ]
+}
+    
