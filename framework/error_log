@@ -1,0 +1,82 @@
+[09-Oct-2019 06:43:49 America/New_York] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'henryqfaw_ashwani'@'localhost' (using password: YES) in /home/henrqfaw/public_html/framework/config.php on line 10
+[09-Oct-2019 06:44:15 America/New_York] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'henryqfaw_ashwani'@'localhost' (using password: YES) in /home/henrqfaw/public_html/framework/config.php on line 10
+[09-Oct-2019 06:44:15 America/New_York] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/henrqfaw/public_html/framework/config.php on line 16
+[09-Oct-2019 06:44:34 America/New_York] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'henryqfaw_ashwani'@'localhost' (using password: YES) in /home/henrqfaw/public_html/framework/config.php on line 10
+[09-Oct-2019 06:44:34 America/New_York] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/henrqfaw/public_html/framework/config.php on line 16
+[09-Oct-2019 07:39:21 America/New_York] PHP Warning:  require_once(../db.php): failed to open stream: No such file or directory in /home/henrqfaw/public_html/framework/app/models/Student.php on line 2
+[09-Oct-2019 07:39:21 America/New_York] PHP Fatal error:  require_once(): Failed opening required '../db.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/henrqfaw/public_html/framework/app/models/Student.php on line 2
+[09-Oct-2019 08:14:07 America/New_York] PHP Notice:  Undefined variable: insert in /home/henrqfaw/public_html/framework/generate-class.php on line 58
+[09-Oct-2019 08:14:07 America/New_York] PHP Notice:  Undefined variable: insertParameters in /home/henrqfaw/public_html/framework/generate-class.php on line 95
+[09-Oct-2019 08:15:57 America/New_York] PHP Notice:  Undefined variable: insertParameters in /home/henrqfaw/public_html/framework/generate-class.php on line 95
+[14-Oct-2019 05:17:58 America/New_York] PHP Warning:  require_once(./../../config.php): failed to open stream: No such file or directory in /home/henrqfaw/public_html/framework/app/db.php on line 3
+[14-Oct-2019 05:17:58 America/New_York] PHP Fatal error:  require_once(): Failed opening required './../../config.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/henrqfaw/public_html/framework/app/db.php on line 3
+[14-Oct-2019 05:18:22 America/New_York] PHP Warning:  require_once(./../../config.php): failed to open stream: No such file or directory in /home/henrqfaw/public_html/framework/app/db.php on line 3
+[14-Oct-2019 05:18:22 America/New_York] PHP Fatal error:  require_once(): Failed opening required './../../config.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/henrqfaw/public_html/framework/app/db.php on line 3
+[14-Oct-2019 05:18:24 America/New_York] PHP Warning:  require_once(./../../config.php): failed to open stream: No such file or directory in /home/henrqfaw/public_html/framework/app/db.php on line 3
+[14-Oct-2019 05:18:24 America/New_York] PHP Fatal error:  require_once(): Failed opening required './../../config.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/henrqfaw/public_html/framework/app/db.php on line 3
+[14-Oct-2019 05:20:14 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Database' not found in /home/henrqfaw/public_html/framework/index.php:52
+Stack trace:
+#0 {main}
+  thrown in /home/henrqfaw/public_html/framework/index.php on line 52
+[14-Oct-2019 05:20:48 America/New_York] PHP Warning:  require_once(./../../config.php): failed to open stream: No such file or directory in /home/henrqfaw/public_html/framework/app/db.php on line 3
+[14-Oct-2019 05:20:48 America/New_York] PHP Fatal error:  require_once(): Failed opening required './../../config.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/henrqfaw/public_html/framework/app/db.php on line 3
+[14-Oct-2019 05:21:28 America/New_York] PHP Warning:  require_once(./../../config.php): failed to open stream: No such file or directory in /home/henrqfaw/public_html/framework/app/db.php on line 3
+[14-Oct-2019 05:21:28 America/New_York] PHP Fatal error:  require_once(): Failed opening required './../../config.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/henrqfaw/public_html/framework/app/db.php on line 3
+[14-Oct-2019 05:22:28 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Database' not found in /home/henrqfaw/public_html/framework/index.php:52
+Stack trace:
+#0 {main}
+  thrown in /home/henrqfaw/public_html/framework/index.php on line 52
+[14-Oct-2019 05:22:43 America/New_York] PHP Warning:  require_once(./../../config.php): failed to open stream: No such file or directory in /home/henrqfaw/public_html/framework/app/db.php on line 3
+[14-Oct-2019 05:22:43 America/New_York] PHP Fatal error:  require_once(): Failed opening required './../../config.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/henrqfaw/public_html/framework/app/db.php on line 3
+[14-Oct-2019 05:22:45 America/New_York] PHP Warning:  require_once(./../../config.php): failed to open stream: No such file or directory in /home/henrqfaw/public_html/framework/app/db.php on line 3
+[14-Oct-2019 05:22:45 America/New_York] PHP Fatal error:  require_once(): Failed opening required './../../config.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/henrqfaw/public_html/framework/app/db.php on line 3
+[14-Oct-2019 05:44:52 America/New_York] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/henrqfaw/public_html/framework/index.php on line 14
+[14-Oct-2019 05:44:52 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/henrqfaw/public_html/framework/index.php on line 20
+[14-Oct-2019 05:44:54 America/New_York] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/henrqfaw/public_html/framework/index.php on line 14
+[14-Oct-2019 05:44:54 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/henrqfaw/public_html/framework/index.php on line 20
+[14-Oct-2019 05:44:57 America/New_York] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/henrqfaw/public_html/framework/index.php on line 14
+[14-Oct-2019 05:44:57 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/henrqfaw/public_html/framework/index.php on line 20
+[14-Oct-2019 05:45:45 America/New_York] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/henrqfaw/public_html/framework/index.php on line 14
+[14-Oct-2019 05:45:45 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/henrqfaw/public_html/framework/index.php on line 20
+[14-Oct-2019 05:46:09 America/New_York] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/henrqfaw/public_html/framework/index.php on line 14
+[14-Oct-2019 05:46:09 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/henrqfaw/public_html/framework/index.php on line 20
+[14-Oct-2019 05:46:11 America/New_York] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/henrqfaw/public_html/framework/index.php on line 14
+[14-Oct-2019 05:46:11 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/henrqfaw/public_html/framework/index.php on line 20
+[14-Oct-2019 05:49:01 America/New_York] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/henrqfaw/public_html/framework/index.php on line 14
+[14-Oct-2019 05:49:01 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/henrqfaw/public_html/framework/index.php on line 20
+[14-Oct-2019 05:49:22 America/New_York] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/henrqfaw/public_html/framework/index.php on line 14
+[14-Oct-2019 05:49:22 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/henrqfaw/public_html/framework/index.php on line 20
+[14-Oct-2019 05:57:05 America/New_York] PHP Warning:  require_once(./../../config.php): failed to open stream: No such file or directory in /home/henrqfaw/public_html/framework/app/db.php on line 3
+[14-Oct-2019 05:57:05 America/New_York] PHP Fatal error:  require_once(): Failed opening required './../../config.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/henrqfaw/public_html/framework/app/db.php on line 3
+[14-Oct-2019 05:57:35 America/New_York] PHP Warning:  Use of undefined constant DB_HOST - assumed 'DB_HOST' (this will throw an Error in a future version of PHP) in /home/henrqfaw/public_html/framework/app/db.php on line 10
+[14-Oct-2019 05:57:35 America/New_York] PHP Warning:  Use of undefined constant DB_USER - assumed 'DB_USER' (this will throw an Error in a future version of PHP) in /home/henrqfaw/public_html/framework/app/db.php on line 10
+[14-Oct-2019 05:57:35 America/New_York] PHP Warning:  Use of undefined constant DB_PASS - assumed 'DB_PASS' (this will throw an Error in a future version of PHP) in /home/henrqfaw/public_html/framework/app/db.php on line 10
+[14-Oct-2019 05:57:35 America/New_York] PHP Warning:  Use of undefined constant DB_NAME - assumed 'DB_NAME' (this will throw an Error in a future version of PHP) in /home/henrqfaw/public_html/framework/app/db.php on line 10
+[14-Oct-2019 05:57:35 America/New_York] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'DB_HOST' (-2) in /home/henrqfaw/public_html/framework/app/db.php on line 10
+[14-Oct-2019 05:57:35 America/New_York] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/henrqfaw/public_html/framework/app/db.php on line 12
+[14-Oct-2019 05:57:40 America/New_York] PHP Warning:  Use of undefined constant DB_HOST - assumed 'DB_HOST' (this will throw an Error in a future version of PHP) in /home/henrqfaw/public_html/framework/app/db.php on line 10
+[14-Oct-2019 05:57:40 America/New_York] PHP Warning:  Use of undefined constant DB_USER - assumed 'DB_USER' (this will throw an Error in a future version of PHP) in /home/henrqfaw/public_html/framework/app/db.php on line 10
+[14-Oct-2019 05:57:40 America/New_York] PHP Warning:  Use of undefined constant DB_PASS - assumed 'DB_PASS' (this will throw an Error in a future version of PHP) in /home/henrqfaw/public_html/framework/app/db.php on line 10
+[14-Oct-2019 05:57:40 America/New_York] PHP Warning:  Use of undefined constant DB_NAME - assumed 'DB_NAME' (this will throw an Error in a future version of PHP) in /home/henrqfaw/public_html/framework/app/db.php on line 10
+[14-Oct-2019 05:57:40 America/New_York] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'DB_HOST' (-2) in /home/henrqfaw/public_html/framework/app/db.php on line 10
+[14-Oct-2019 05:57:40 America/New_York] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/henrqfaw/public_html/framework/app/db.php on line 12
+[14-Oct-2019 06:33:00 America/New_York] PHP Warning:  Use of undefined constant DB_HOST - assumed 'DB_HOST' (this will throw an Error in a future version of PHP) in /home/henrqfaw/public_html/framework/app/db.php on line 10
+[14-Oct-2019 06:33:00 America/New_York] PHP Warning:  Use of undefined constant DB_USER - assumed 'DB_USER' (this will throw an Error in a future version of PHP) in /home/henrqfaw/public_html/framework/app/db.php on line 10
+[14-Oct-2019 06:33:00 America/New_York] PHP Warning:  Use of undefined constant DB_PASS - assumed 'DB_PASS' (this will throw an Error in a future version of PHP) in /home/henrqfaw/public_html/framework/app/db.php on line 10
+[14-Oct-2019 06:33:00 America/New_York] PHP Warning:  Use of undefined constant DB_NAME - assumed 'DB_NAME' (this will throw an Error in a future version of PHP) in /home/henrqfaw/public_html/framework/app/db.php on line 10
+[14-Oct-2019 06:33:00 America/New_York] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'DB_HOST' (-2) in /home/henrqfaw/public_html/framework/app/db.php on line 10
+[14-Oct-2019 06:33:00 America/New_York] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/henrqfaw/public_html/framework/app/db.php on line 12
+[14-Oct-2019 06:40:43 America/New_York] PHP Warning:  require_once(./../config.php): failed to open stream: No such file or directory in /home/henrqfaw/public_html/framework/app/db.php on line 3
+[14-Oct-2019 06:40:43 America/New_York] PHP Fatal error:  require_once(): Failed opening required './../config.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/henrqfaw/public_html/framework/app/db.php on line 3
+[14-Oct-2019 06:41:14 America/New_York] PHP Warning:  Use of undefined constant DB_HOST - assumed 'DB_HOST' (this will throw an Error in a future version of PHP) in /home/henrqfaw/public_html/framework/app/db.php on line 10
+[14-Oct-2019 06:41:14 America/New_York] PHP Warning:  Use of undefined constant DB_USER - assumed 'DB_USER' (this will throw an Error in a future version of PHP) in /home/henrqfaw/public_html/framework/app/db.php on line 10
+[14-Oct-2019 06:41:14 America/New_York] PHP Warning:  Use of undefined constant DB_PASS - assumed 'DB_PASS' (this will throw an Error in a future version of PHP) in /home/henrqfaw/public_html/framework/app/db.php on line 10
+[14-Oct-2019 06:41:14 America/New_York] PHP Warning:  Use of undefined constant DB_NAME - assumed 'DB_NAME' (this will throw an Error in a future version of PHP) in /home/henrqfaw/public_html/framework/app/db.php on line 10
+[14-Oct-2019 06:41:14 America/New_York] PHP Warning:  mysqli_connect(): (HY000/2005): Unknown MySQL server host 'DB_HOST' (-2) in /home/henrqfaw/public_html/framework/app/db.php on line 10
+[14-Oct-2019 06:41:14 America/New_York] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/henrqfaw/public_html/framework/app/db.php on line 12
+[14-Oct-2019 06:41:38 America/New_York] PHP Warning:  require_once(./../../config.php): failed to open stream: No such file or directory in /home/henrqfaw/public_html/framework/app/db.php on line 3
+[14-Oct-2019 06:41:38 America/New_York] PHP Fatal error:  require_once(): Failed opening required './../../config.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/henrqfaw/public_html/framework/app/db.php on line 3
+[14-Oct-2019 06:41:49 America/New_York] PHP Warning:  require_once(./../config.php): failed to open stream: No such file or directory in /home/henrqfaw/public_html/framework/app/db.php on line 3
+[14-Oct-2019 06:41:49 America/New_York] PHP Fatal error:  require_once(): Failed opening required './../config.php' (include_path='.:/opt/alt/php72/usr/share/pear') in /home/henrqfaw/public_html/framework/app/db.php on line 3
+[14-Oct-2019 06:45:40 America/New_York] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/henrqfaw/public_html/framework/app/db.php on line 26
+[14-Oct-2019 06:45:44 America/New_York] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/henrqfaw/public_html/framework/app/db.php on line 26
