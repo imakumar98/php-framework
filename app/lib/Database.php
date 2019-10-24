@@ -93,10 +93,15 @@
             }
         }
 
+        //Static function to count number of rows
+        public static function count($sql){
+            $connection = self::get_connection();
 
+            $res = self::select($sql);
 
+            return mysqli_num_row($res);
+        }
 
-        
     }
 
 
